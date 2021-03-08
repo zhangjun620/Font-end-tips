@@ -14,7 +14,7 @@ Font-end / some tips / in issues<br>
 [从输入URL到按下回车后后浏览器加载都发生了什么？](https://github.com/zhangjun620/Font-end-tips/issues/3)
 
 
-[js高级程序设计4笔记](https://github.com/zhangjun620/Font-end-tips/blob/master/article/js%E9%AB%98%E7%A8%8B4%E7%AC%94%E8%AE%B0.md)
+[js高级程序设计4笔记](https://github.com/zhangjun620/Font-end-tips/tree/master/article/js%E9%AB%98%E7%A8%8B4)
 
 
 [js忍者秘籍2笔记](https://github.com/zhangjun620/Font-end-tips/blob/master/article/js%E5%BF%8D%E8%80%85%E7%A7%98%E7%B1%8D2%E7%AC%94%E8%AE%B0.md)
